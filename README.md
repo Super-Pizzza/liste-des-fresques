@@ -96,6 +96,12 @@ _Créée en 2022_
 La fresque du sol est un outil ludique et collaboratif qui vise à diffuser un langage commun sur le fonctionnement des sols, et sur les enjeux liés à leur préservation.  
 Au travers de 50 cartes et en 3h, permet de comprendre ce qu’est un sol, comment celui-ci se forme et quelles fonctions écologiques découlent de ses propriétés pour ensuite découvrir l’ensemble des services que l’on en retire, les menaces qui rendent ces services limités dans le temps et l’espace et les actions que l’on peut engager pour préserver le fonctionnement des sols…
 
+## [La Fresque fresque de l'éco-conception](https://www.lafresquedelecoconception.fr/)
+<a href="https://www.lafresquedelecoconception.fr/"><img src="https://static.wixstatic.com/media/f8bd81_201a943fe3784f0b8945edc79418b142~mv2.png/v1/fill/w_332,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Logo_fresque_fond_blanc.png" align="right" width="150" alt="Logo de l'éco-conception"></a>
+_Créée en 2023_  
+La fresque de l'éco-conception est un atelier collaboratif qui s'adresse aux entreprises souhaitant sensibiliser leurs collaborateurs au thème de l'éco-conception. Elle permet de découvrir les principes clés de l'éco-conception et de faire le plein d'idées éco-innovantes.
+🤝 La fresque a été co-crée par les deux cabinets de conseil en éco-conception Gingko 21 et EVEA.
+
 # Ressources
 - [Document Google Sheet](https://docs.google.com/spreadsheets/d/1q_9L9U8Gn6qX7Wgcu7sAwo9fnUcbeSGHJGYqm_1nHs0/edit?usp=sharing) tenu à jour par la communauté (avec celles qui sont encore en construction)
 - [Page wiki référençant les fresques amies](https://wiki.climatefresk.org/?title=Les_fresques_amies)
